@@ -20,6 +20,7 @@
 6. [Security Considerations](#security-considerations)
 7. [Deployment](#deployment)
 8. [Future Enhancements](#future-enhancements)
+9. [Testing URL](#testing-url)
 
 ## 1. Introduction
 
@@ -172,3 +173,10 @@ Potential areas for improvement:
 7. Enhance mobile responsiveness and add a dedicated mobile app
 
 This documentation provides an overview of the Office Inventory Management System. For detailed implementation specifics, refer to the individual code files and comments within the source code.
+
+## 9. Testing URL
+
+Deployed Application URL: https://gilarsalan.netlify.app/
+
+username: `arsalansunny.kha@gmail.com`
+password: `gil_web_test`
