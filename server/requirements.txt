@@ -2,5 +2,4 @@ flask
 flask-cors
 flask-pymongo
 flask-jwt-extended
-Werkzeug
 bson
